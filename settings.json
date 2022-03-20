@@ -1,0 +1,18 @@
+{
+    "workbench.colorTheme": "Abyss",
+    "workbench.colorCustomizations": {
+        "[Default Dark+]": {},
+        "terminal.foreground" : "#00e5ff",
+        "terminal.background" : "#222222",
+        "terminal.ansiBrightBlack": "#ffffff",
+        "terminal.ansiBlack": "#3a3a3a",
+        "terminal.ansiBlue": "#0004ff",
+		"terminal.ansiCyan": "#7c7eff"
+    },
+        "editor.tabCompletion": "on",
+        "editor.autoClosingBrackets": false,
+        "editor.suggestOnTriggerCharacters": false,
+        "editor.acceptSuggestionOnCommitCharacter": false,
+        "editor.acceptSuggestionOnEnter": "off",
+        "editor.tabSize": 2
+}
